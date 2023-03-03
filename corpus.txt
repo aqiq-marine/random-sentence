@@ -1,0 +1,100 @@
+v2241 n16 n2
+conj3a v3c nea n21 n1b6 v38 r34 n44 n34 n38 n15 r34 r2f r21 n216 n2 n154 r37 n4 n16 n3e r3c r2c n4 na6 n48 n8 v23 n22 n4
+conj24 v26 n8 n7 v32d n6 r3e r21 n4 n2 r3e nc r3f n4 n6 nc0 r210 r3b na nce n164 r35 r3a n4 n5e n1f4 r34 r27 nc n53 n4 nf8 na n37c n68
+conj3b v2c3 r27 n30e r3f n190 nb2 n40 ne v2e4 n46 ne v356 n18 r36 n6 n14 n4 n17d
+conj22 v2f nbb n1a4 v37 na r23 n4 r29 r3b r33 n6b n114 n122 n6 nb4 n155 r3f n1c0 r25 r35 n6 r21 r35 n4 n6 nd6 n2 r3c r3f n6 r22 n16e n8 n2c r33 n34 r39 n28 n1e r21 ne8 r35 n5d r26 n3d0 r3c n7 n6 n72 r23 r39 n4 r32 n4 n4 r2b r31 r35 n4 r24 r2e r38 n4 n3c n336 n1ec nc r22 r35 ndc na n4 r2a naa r25 n12 n3 r3a n4 n6 n40 n18 n5 n4 n12 n8 n9c r38 n5 r34 n8e r3c r34 r25 n8c r3e r26 n5b r37 n3 r2d r310 n4 n4 nd0 n11 n9a n68 nc na r28 nc n8 n5e n7c n4 r21 r35 n5e n4 n6 n2 n6
+v2136 n14 n3
+v12 na
+conj37 v213d n79 n52 v2d r2a n37 n4 n2 v12e n6
+conj27 v22 n78 r2d na1 n24 v32 n26 n12 r3b r36 r23 n78 n20 n37e n7a n4 r21 r34 nc r210 r23 n4 r2c nc r22 n178 r3c n3 n13e r37 n42 n4 r310 r3e n4 r32 n12 n8 n4 r33 n4a n44 nc n8 n6 n10 nea n80
+v22b r2c r2e n21 r28 n151 n18 n6e nf
+v210 n48 r2f n44 nb
+conj32 v32d n360 n2 n3c2 v355 r22 n9 n24c n4 n31 v24a n12 n3
+v113 r2f n4 r37 n14c n6 n146
+v25 n273 r28 r3e r24 nce n2 n8 r28 n386 n6 n6e
+v214d n22 r36 na6 r21 n96 r310 r34 n13 r3e r35 r27 n6 n20 n1aa r2d n226 r24 n231 r2a r310 r3d r210 r3c r29 na0 r2b n2 r38 n1c5 na n7c r3b r210 n1c n8 n6e nf6 n6 r3a ne ne r34 na0 r27 n26 n1f r31 n306 r39 n3bc r2b r2c nc n2a8 n7 nb6 n19a n84 n4 r310 n9e na n9c r310 n2e r2b r38 n30a r33 n148 ne n2e8 n11c r3f n9 nb8 n6 r34 ne r2d r38 n31c n28c n3a n2 n278 r27 n60 r26 n3 r3c r2a r3b n1a0 na r38 n4 n14 n4 r33 r2d n38 n3 r38 n52 n14 n4 n74 n110 na n2e0 n26 ncc ne n12 r3b r31 n4 n1c8 n18 r3b ne n10e r34 n2e6 na n18 n4
+v236 r210 r36 r34 nc n106 n8 n14 n38 n12 n24
+v38b n2 r22 r28 n6 r3d r2d r2f r24 n8 r2f n32 n172 n86 na n10 r3c r36 n52 ne4 n6c n2c r3b n4e nf0 n330 nb n23
+v218 n1a6 r2b r3d r24 r38 r3a n8 n292 nc n24 r29 n6 r24 n2e2 n9 n6 r29 nd8 r24 n1c r36 n5 n64 n39e ne n2
+v23 n33 r23 n34 n63
+conj32 v216c n4e n14 v3b n5 r3a n12 n4 n20 n142 v14b n381
+conj2a v224 n46 n225 v23 r33 r2c r35 r2f r26 n22 r25 n1e n26f r34 n3a n22 r22 r28 n16e ne n6 n3e n8 n40d nac r3d n36e n6 r31 n5a r3b n33a n4 ne r31 n30 n3a n4 n114
+v26 r39 na n2e r210 nc r37 n2a n1c n24 n63
+v27c n22 r23 n5 n6b
+conj2b v118 n22 v2ae n96 r36 n17 n16 n5e
+conj37 v32 r38 n14a r39 n32 r39 n18 r3e n8 n16 n20 r310 n138 r36 n20 r35 n4 r26 n34 r28 n9 n23 nc n2fc nb2 nb2 n5a n11a r3a n1c5 r31 n4 n2ac r25 naa r25 n31 n3e n94 v2d n16 na v2f n44 n6
+conj28 v22a r23 n16 n148 r39 n47 r3f n3a n188 n4 r3e n4 n42 n5a v24 n54 na
+conj22 v22 n30 r3e n9a n88 r3a n2a n26 n6a v310 r34 r21 r3b r25 na r24 n11 r3c r23 r38 n1b n2c nb4 r22 n1d r37 r34 n8 r34 r31 n1ba n4 n14 n8 r3d r23 na n7 nb0 n6 n5e nc n1a r2a n26c r27 r2f r24 n2 r31 n6c nc2 n26 n67 n2 r310 n2a r3a n2ca n28 r39 na n3dc n14 r36 r2b ne r2e r3c n1a n246 nae r27 r3f n2 n4 n190 r3f r28 n2 n2bc n3fc r35 n226 ne r21 n12 r31 n1b9 n1f6 nc n8 n18 n14 r24 nc r22 n1be n6 n274 r3b n3d8 r3a n10 r29 n8 n4 n14 r2c n2ca n4 n8 r37 n4b r2d r3f n26 n24 n94 n2 r2b r2a r22 n74 n199 r31 r2e r2f r35 n2 n6a n6 n256 r2a r2d r33 n15b n14c r25 r23 r3e n30 n42 n2e n1e r29 nb9 n18e n75 r24 n2 nb n4 n4 n2 r35 r310 n33 n2a4 n35a r34 n28 n92 n6e n58
+v313 n5 n6 n1c
+conj22 v38 n30 n12 r3d r21 n6 na0 r2c r2c na r21 n3e n21f n110 n12 v260 n32 r39 nd r36 n20 n26 r37 n4e n6 n390 n4
+conj22 v35 nf3 n4 r39 n23 r33 r2c n4 r22 n4 n69 n9c n4 n14 v24 n102 n4f
+v2279 n2db n62
+conj22 v24 n3c8 r2c n127 n5 v12d n5d
+v28 r310 n328 r31 n54 r38 n17c n18 nda n16 n4 r28 n11 n10
+v224 n4 r29 r26 r3d n6f ne r22 n16 r22 n3 r26 r31 n4c r3d na0 n4 n8 n2b6 n4 r3c n7 na na r32 n14 n8 n20a
+conj22 v2b n16 nc6 v155 r38 nf r3f n6 r27 r3f r36 n16c n6 n8 r2e nc4 r3e nb7 n6 n86 n154 r25 r3d n2 r24 n234 r35 n34 r2d r32 n28 r23 n32 r2f n3 n1b r21 r23 n1f4 n10 r2b n5 r3c r28 n25 n20f r2b n3c r38 nc n6 n8 n4 nb n4 n8 r38 n92 n136 n22 n46 n4
+conj33 v23 r34 n55 n16 n372 r39 n34 nc r36 r3d n1b4 r36 n20 n78 n6 n6 r34 n240 n42 n8 n21c v214 r37 r210 n86 n21e r25 n24 r27 nf n9 r28 n16 n56 n8 v32 n1c n9 r23 r2c n15 n3de n8a
+conj22 v210 r25 nc n315 r24 nb n2 v2114 n108 r2f n12 n23
+v36 r35 r3c n10 n4 n9c r2a r29 r2e r2b n22 n2a n3 n177 n2 nc n12c n6
+v214 n8 n6a
+conj23 v23 r31 n110 n8 n1b4 n4e v24 n6 r33 n1fe r37 n12 r2f n4 n3 n8a n108
+v24d r3d n108 n12c n3ec r35 r24 nb7 n4 r27 n2e n4 nd4
+conj210 v13 r3c nc9 r31 n4 n204 n29e n8 v1a n1bc
+v2117 n22 na
+conj2d v32e n1de n3c6 r2c r37 r38 n9 ne8 nde n1d4 r22 r310 n102 r26 n6 n18 n18 r25 n2 r310 r37 n3 n38 n352 n7e r2d n28 r39 r210 r32 r2a r210 n1ef n24 n3e9 n50 ne n155 r2d n4 r29 r36 n2 n194 n4 r36 n8 r37 n1ae ne n30 n30 ne n2e2 v215f n22 n72
+v22d n154 n5e
+conj22 v35 r35 n230 naa n1fe r3a r2e ne n275 r3c r35 n4 nc n380 r26 r34 r36 n4 r31 r22 n66 n45 n46 n114 n34a n26 n6 r3f n88 r26 r39 r36 n134 r32 n8c na r33 n6 r2f n30 r3f n8 r34 n5e n14a n4 n20 n6 n4 n6 n12 n77 n16 nb6 n6 ne v359 n3 r25 n1e n50 r29 r210 r25 nf5 n9b n3e9 r2d n3 nd1
+v22 r22 r3b r35 n3e r210 n4 ne n52 r31 n1f4 r29 na r33 n7 n1e r34 nc n6 r28 nc n230 r29 r2b n4 r2f n63 n25 n88 n184 n3 n7
+conj214 v21fa r23 r310 n12a ne r21 nc4 n2ae nd n10 v314 r3c na n22 n66 r310 n15 r210 r27 n50 n37b r23 n6 n4 n1b2 n36
+conj39 v21d9 n2e1 n2 v22 n3c n11a v21a n96 n1d1
+v339 n5d n2 n1a
+conj26 v21ba r27 n1c r2a r32 n69 n86 nc n1a r210 n2 n22 v1b n2
+conj27 v2b n1ef n1ed v2b5 r23 n37 n5 n5
+conj22 v2db n121 r3a r3e ne4 n4e n2c n4 r38 n4a nf6 r3c n74 n1c8 r3f r21 r33 n118 n4c na r29 n7e n2 r3a r33 n1ec n12c r23 nd2 r310 n148 r33 n4 ndc r33 n4 n12 n8e n68 nc n326 r39 r3f n370 n26 n4 n4 n4 v27b r39 n44 r21 r27 n1a nb7 n2 r35 r3b nc n120 r36 n8 n4 n182 n354 n192 r2e n1d6 n37
+conj32 v3a0 n6 nc nbd v269 n286 r3b r2b r37 r3b n4 n8 n8e r2d n2fc n4 n4 n397 n6 n17e v13d n16
+v24 r2e r3b na6 n4 r35 n6 n2e8 n1b4 r24 n20 n11 n2
+v24c n84 n20
+v3c n3e n6 r32 n21 n4 n2bc
+v229 n3a7 n8
+v32 r3f r26 r39 n38 r25 ne0 n2 n8 n6a r2c r3d r3a r37 n170 n4 n82 nbc n4 n6 r28 n4 r3f n6c r210 n352 n154 n3a4 n6 r35 n8 r21 n1d6 r33 r32 n13 na n4 n62 n7c r29 r24 n23e n40 n31 n12 r26 r25 n1da n2 n1b0
+conj25 v21a n38 r3c n55 n4 r2d n386 n1e v274 r310 r210 n1c n224 nf0 r3f n8c n32 n32 n5
+v27f n21 n5b
+v2124 r2c n6 n4 r22 n1a6 nf
+conj24 v239 r2b ndd n372 r3d r23 nda n2 r28 n2a n46 r32 n58 r25 n8 r21 nea n4 n2e6 v352 n28 r3f n15 ne nc r39 r25 n2fa n203 r35 n19a n124 nf6 r3a n2f4 r36 n12 n4 na0 n144
+v22e r35 nc n6 r38 n13e nc r27 r3a r310 r37 n18 n6c nec n2b6 r26 n2a n84 n4 n18 r38 n12 r38 n4 n16 r22 n6 n1a r28 r3a n188 n7c na2 n14c r2e r28 r3a n4 n18e n16 r21 n31 n1da r39 r2c nf n3 r31 r3b n62 n4e n4 na n36 r33 n4 n4 r21 nc r3f n2 n4 n2b6
+conj22 v21b n33 r37 n4 n348 n6 v22 r33 n180 r2f n396 n218 r33 n4 n8 n10 r25 nda n73
+conj23 v1b n18 v332 r28 r34 n4c r3e n8 n1f8 ne r22 r3f n7c n24 r3d n14 nb4 r26 nc r2d r28 r2b n13 n28 n2 n9 r2e n9 r3e n2 n4 r3d n2a4 n22 n6 n66 n8d n33
+v254 n2b4 nb5
+v25 nd1 r3d n5 r3c ndc n2c2 r31 n4 n6 n1b2 n6
+v331 n157 n30 nd2
+v214d n55 n8a
+v21d n3d3 n5
+conj24 v293 r2f n55 r32 r37 r3b r35 n3 n8 r2e n66 n293 n12 n20 r2a na n16 n6 n4 na6 n100 v115 n15
+v25e n4 n2c
+v225 r210 r2c n6e r32 n42 n4 r28 n16 nc n129 r32 r2e n2 n6 n302 n4
+v25 n14a r29 n2 r24 r34 n4 n102 r28 r35 r310 n7a n14 r37 nc8 r21 n10 r2f n1b8 r2c r27 r28 n1b1 r38 n1a8 n6 n4 n1f9 r3d n5 n56 ne6 n4 n8 n4 r35 na n4 n14 n42
+v15f n1ea
+conj23 v33 nc n4d r24 r32 n34 n31c n8 n27 v33 n6 n3 n11e
+v21fb r2b n22 r2e n2 n23 n8
+v21a3 n11e r23 ne5 n2a
+v27f r32 n8f n8 n4 n47
+v34 r27 ne r25 n2a n4e r28 n9 r32 n141 n4 n12e n9
+v366 r2b n6 n1de nf n1f5
+conj2a v326 n3c n2d n19e v21c r39 n192 n4 r2b n20 r3e n5 n10 n6c n1fe
+conj22 v22 n8 n23 v321 n3f n17 n1a
+v3a r28 r3c n1f2 r23 n12 r28 nb1 r3b nb r2b n9c r38 n3 n4 n4 n16 r3b n62 n2dc r38 n26 n4 n94 r210 n18c n1c8 n6 ncf
+conj22 v2c r29 n21a r3a r3c r33 r310 r2b ndb n30b n360 r2a n34 n23c n2d8 na6 n4 n5c n70 r27 ne n14 n3c v350 r23 n110 n4a n4b n12
+v24a n4 n32
+v2144 na r3e n5 n26 n190
+v12e r210 n2c n158
+v244 ne n37
+v2fd n386 n11
+v375 r23 n6 nb r22 r2b n2 n1dd n21 n1a
+v339 na5 n2 n152
+conj22 v215 n66 r3a n4 n146 n1f2 v23 r36 n33 n29e n1a n34
+conj28 v23 nbb n138 v13 n24
+v2226 n6 n1c
+v22 r2f nc n22 n8e
+v22 r38 r3e n36 na r25 nd0 n21b r3c n6 n19a n3e n232 r21 n2 n8
+v21b2 n1d6 n3d0
+conj22 v22 n92 n97 v2124 n6 nb9
